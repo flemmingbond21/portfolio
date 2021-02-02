@@ -1,0 +1,153 @@
+{
+  "main": {
+    "name":"Robin Nguyen",
+    "description":"I am a web development/ Network engineer. My Technical skills include HTML, CSS, Javascript, React/ Python, router/ switch/ server configuration",
+    "image":"myImage.png",
+    "bio":"I am a resourceful, self-motivated and certified network/programmer engineer with over 5 years of relevant and progressive experience in Information Technology.Having previously functioned in different positions from designing, configuring,programming and supporting various networks and security devices of multiple enterprise customers, I passionate everything about IT and constantly work towards developing my skills by learning new technologies.",
+    "contactmessage":"If you have any questions, please do not hesitate to contact with me at any time",
+    "email": "nhan.test123bbc@gmail.com",
+    "phone": "0450581706",
+    "github":"https://github.com/flemmingbond21",
+    "project":"https://github.com/flemmingbond21",
+    "address":{
+      "street":"3 Bridge Street",
+      "city":"Donnybrook",
+      "state":"WA",
+      "zip": "6239"
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/polimibk/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/NhanHuuNguyen2",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/nguyen-nhan-60b5b3195/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/flemmingbond123/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/flemmingbond21",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"Politecnico di Milano",
+        "degree":"Masters in Management Engineering",
+        "graduated":"April 2014",
+        "description":"Project Management, Marketing, Business Strategy, Corporate Information System, Quality Management"
+      },
+      {
+        "school":"University of Technology Ho Chi Minh City",
+        "degree":"Bachelor in Computer Engineering",
+        "graduated":"April 2010",
+        "description":"Computer Network, Data Structure and Algorithms, Programming Language, Web Development, Software Engineering"
+      }
+    ],
+    "work":[
+      {
+        "company":"Terralogic",
+        "title":"Senior Network Automation Engineer ",
+        "years":"Oct 2018 - Present",
+        "description":"Work with development teams to develop software and hardware systems\n.Design, develop and execute test plans, automation tools with python, robot framework for networking features, equipment and systems (STP, RSTP, QoS, VLAN, PPP, IPv4, IPv6, 802.1X, LACP, DHCP, DNS, Firewall, NAT, RIP, EIGRP, OSPF, BGP )."
+      },
+      {
+        "company":"Paltech Solutions",
+        "title":"Network and System Engineer",
+        "years":"Oct 2017 - Oct 2018",
+        "description":"Ensure the resiliency and 24x7 uptime in Product environment from the challenge of nature/man-made fault.Manage and troubleshoot problems in the web-centric platform (Web Server, Java Application Server, Database Server, Monitoring/Logging System)"
+      }
+    ],
+    "skills":[
+    
+      {
+        "name":"HTML",
+        "level":"90%"
+      },
+      {
+        "name":"Javascript",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"80%"
+      },
+      {
+        "name":"Wordpress",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"70%"
+      },
+      {
+        "name":"Python",
+        "level":"80%"
+      },
+      {
+        "name":"Devops",
+        "level":"80%"
+      },
+      {
+        "name":"Linux",
+        "level":"80%"
+      },
+      {
+        "name":"Network",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Portfolio Website",
+        "category":"Portfolio Personal Website",
+        "image":"portfolio website.JPG",
+        "url":"https://flemmingbond21.github.io/BarChart/"
+      },
+      {
+        "title":"Bar Chart",
+        "category":"Visualize Data with a Bar Chart",
+        "image":"barchart.JPG",
+        "url":"https://flemmingbond21.github.io/BarChart/"
+      },
+      {
+        "title":"Scatterplot Graph",
+        "category":"Visualize Data with a Scatterplot Graph",
+        "image":"scatterplot.jpg",
+        "url":"https://flemmingbond21.github.io/scatterplot/"
+      },
+      {
+        "title":"Treemap Diagram",
+        "category":"Visualize Data with a Treemap Diagram",
+        "image":"treemap.jpg",
+        "url":" https://flemmingbond21.github.io/Treemap/"
+      },
+
+      {
+        "title":" Choropleth Map",
+        "category":"Visualize Data with a Choropleth Map",
+        "image":"choroplethmap.JPG",
+        "url":"https://flemmingbond21.github.io/ChoroplethMap/"
+      }
+    ]
+  }
+}
